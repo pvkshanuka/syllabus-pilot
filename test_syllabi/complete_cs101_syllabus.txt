@@ -1,0 +1,74 @@
+COURSE SYLLABUS
+CS101: Foundations of Computer Science
+Fall Semester 2026
+Department of Computer Science & Software Engineering
+Riga Technical University / GDG University
+
+Instructor: Dr. Eleanor Vance (evance@university.edu)
+Office Hours: Tuesdays & Thursdays 14:00 - 16:00
+Teaching Assistant: Alex Rivera (arivera@university.edu)
+
+Semester Duration:
+- Semester Start Date: September 7, 2026
+- Semester End Date: December 18, 2026
+
+Course Description:
+This course introduces fundamental concepts of computer programming, algorithms, data structures, and computational thinking using Python. Topics include control flow, modular design, recursion, object-oriented concepts, and basic sorting and searching algorithms.
+
+Course Topics & Schedule:
+- Week 1 (Sep 07 - Sep 11): Variables, Primitive Types, and Control Flow
+- Week 2 (Sep 14 - Sep 18): Functions, Scope, and Modular Design
+- Week 3 (Sep 21 - Sep 25): Strings, Lists, and Dictionaries
+- Week 4 (Sep 28 - Oct 02): File I/O, Error Handling, and Exceptions
+- Week 5 (Oct 05 - Oct 09): Recursion and Algorithmic Complexity (Big O)
+- Week 6 (Oct 12 - Oct 16): Midterm 1 Review and Exam
+- Week 7 (Oct 19 - Oct 23): Object-Oriented Programming (Classes, Inheritance)
+- Week 8 (Oct 26 - Oct 30): Data Structures I (Stacks, Queues, Linked Lists)
+- Week 9 (Nov 02 - Nov 06): Data Structures II (Trees, Hash Tables)
+- Week 10 (Nov 09 - Nov 13): Searching and Sorting Algorithms
+- Week 11 (Nov 16 - Nov 20): Midterm 2 Review and Exam
+- Week 12 (Nov 23 - Nov 27): Graph Basics & BFS/DFS
+- Week 13 (Nov 30 - Dec 04): Capstone Project Work & Code Reviews
+- Week 14 (Dec 07 - Dec 11): Final Project Presentations & Course Review
+- Week 15 (Dec 14 - Dec 18): Final Exam Week
+
+Grading Breakdown & Assessment Schedule:
+1. Assignment 1: Python Fundamentals & Logic
+   - Due Date: 2026-09-25 (Friday 23:59)
+   - Weight: 10%
+   - Description: Practice basic control structures, loops, functions, and string operations.
+
+2. Assignment 2: Data Structures & Collections
+   - Due Date: 2026-10-09 (Friday 23:59)
+   - Weight: 10%
+   - Description: Implementation of custom data structures using native Python lists and dictionaries.
+
+3. Midterm Exam 1
+   - Due Date: 2026-10-15 (Thursday 10:00 - 12:00)
+   - Weight: 15%
+   - Description: Covers Weeks 1-5 (Fundamentals, Functions, Collections, File I/O, Recursion).
+
+4. Assignment 3: Object-Oriented Design
+   - Due Date: 2026-11-06 (Friday 23:59)
+   - Weight: 10%
+   - Description: Build a library inventory management system applying OOP principles and unit tests.
+
+5. Midterm Exam 2
+   - Due Date: 2026-11-19 (Thursday 10:00 - 12:00)
+   - Weight: 15%
+   - Description: Covers Weeks 7-10 (OOP, Stacks, Queues, Linked Lists, Trees, Sorting).
+
+6. Capstone Term Project & Presentation
+   - Due Date: 2026-12-04 (Friday 18:00)
+   - Weight: 15%
+   - Description: Collaborative or individual software application implementing real-world data processing.
+
+7. Final Comprehensive Examination
+   - Due Date: 2026-12-16 (Wednesday 09:00 - 12:00)
+   - Weight: 25%
+   - Description: Comprehensive exam covering all 14 weeks of curriculum with focus on algorithm design.
+
+Course Policies:
+- Late Submissions: 10% penalty per day late, up to 3 days maximum.
+- Academic Integrity: Zero tolerance for plagiarism. All code must be your own work.
+- Recommended Study Effort: 6 to 9 hours of independent study per week outside lecture hours.
